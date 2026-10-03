@@ -1,6 +1,6 @@
 # Investment Engine Research Core (release candidate)
 
-This is a curated, history-free candidate for a future public repository. **It is not yet licensed or published.** Do not redistribute until the owner selects a license and completes the release review.
+This is a curated, history-free public research repository released under Apache-2.0. It contains a focused research core rather than a complete trading system.
 
 The candidate contains reusable research components for combinatorial purged cross-validation of factor IC, factor neutralization and orthogonalization, factor validation, and point-in-time out-of-sample readiness/replay. It does **not** contain market data, production strategy configurations, brokerage connectivity, private credentials, live performance records, or a complete trading system. The IC validation routines are diagnostics, not a trained predictive model or proof of genuine out-of-sample investment performance.
 
